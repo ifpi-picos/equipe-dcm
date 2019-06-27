@@ -21,10 +21,10 @@
      background-image:url('../images/main-slider-img1.jpg');
 }
  .darkerskyblue {
-     background-image:url('../images/bg1.png');
+     background-image:url('../images/time.jpeg');
 }
  .deepskyblue {
-     background-image:url('../images/bg1.png');
+     background-image:url('../images/time.jpeg');
 }
  .carousel-indicators {
      bottom: 0;
@@ -518,7 +518,7 @@
  .matchs-vs {
      float: left;
      width: 100%;
-     background: #d8302f;
+     background: whitesmoke;
      color: #fff;
      min-height: 220px;
      padding: 90px 0;
